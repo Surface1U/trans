@@ -11,7 +11,7 @@ def check (command):
     ind = 1
     Out = []
     Operations = ['+', '-', '*', '/', '**','<','>', '==', '!=', '<=', '>=', '=']
-    words = ['if', 'elif', 'else', 'def', 'return', '']
+    words = ['if', 'elif', 'else', 'def', 'return', 'for', 'in', 'range']
     rs = ['(', ')', '[', ']', ':']
 
     for i in range(len(command)):
