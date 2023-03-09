@@ -35,10 +35,10 @@ def check (command):
 
 
 
-prog = open ("C:/Users/Alexander/translator/test.txt", "r")
+prog = open ("zhopa.txt", "r")
 
 
-# f = open ("C:/Users/Alexander/translator/test.txt")
+# f = open ("aNUL")
 
 # text = f.read()
 
